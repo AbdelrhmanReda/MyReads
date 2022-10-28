@@ -1,7 +1,9 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+To Start The Project : 
+ - git clone  https://github.com/AbdelrhmanReda/MyReads/ 
+ - npm install to install packages and dependencies 
+ - npm start to the project 
 # Technologies and Languages : 
 * ReactJs 
 * Routing : React Router Dom
